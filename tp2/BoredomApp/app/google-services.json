@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521181300421",
+    "firebase_url": "https://boredom-app.firebaseio.com",
+    "project_id": "boredom-app",
+    "storage_bucket": "boredom-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521181300421:android:786bae7dc94e469b",
+        "android_client_info": {
+          "package_name": "com.islab.boredomappfase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521181300421-1uacq469n0k4iqkj35l4trm8094oi9r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islab.boredomappfase1",
+            "certificate_hash": "b7bb88f145270c5dc546df904d5512f706a07e73"
+          }
+        },
+        {
+          "client_id": "521181300421-o0lguqpqhtdeduekl9boq4hr09824gbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTh4jGnqgd69Wjb8U9A8jx9mbmLgJCTFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521181300421-o0lguqpqhtdeduekl9boq4hr09824gbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
